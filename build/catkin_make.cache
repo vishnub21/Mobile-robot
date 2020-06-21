@@ -1,0 +1,2 @@
+robot_description
+-DCATKIN_DEVEL_PREFIX=/home/vishnu/mobrob_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vishnu/mobrob_ws/install -G Unix Makefiles
