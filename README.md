@@ -1,4 +1,4 @@
-#2-D mobile robot using Gazebo and ROS
+2-D mobile robot using Gazebo and ROS
 ---
 
 Start the master node using the command `roscore` and then to display the model in gazebo type the command
